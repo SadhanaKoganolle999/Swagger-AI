@@ -1,2 +1,2 @@
-# Swagger-AI
+# OpenAPI
 Generative AI
